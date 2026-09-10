@@ -1,0 +1,8 @@
+{
+  "name": "SafeOS",
+  "description": "Sistema de Gestão para Corretoras de Seguros. Controle total de apólices, renovações, clientes e finanças.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
